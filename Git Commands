@@ -1,0 +1,24 @@
+# UI-Test-Automation
+git fetch
+
+git pull origin master
+
+git stash
+
+git stash apply
+
+git status
+
+git add {filename}
+or
+git add .
+
+git status
+
+git commit -m "your commit message here"
+
+git push origin {local branch name} 
+                          ^
+                        blake
+                        
+Create Pull Request on Bit Bucket
