@@ -17,6 +17,8 @@ git status
 
 git commit -m "your commit message here"
 
+git pull
+
 git push origin {local branch name} 
                           ^
                         blake
